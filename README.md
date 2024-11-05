@@ -15,11 +15,11 @@
    cd flask_api_project
    ```
 2. Create Virtual Environment 
- ```bash
+  ```bash
    python3 -m venv venv
    source venv/bin/activate  # On macOS/Linux
    .\venv\Scripts\activate    # On Windows
- ```
+  ```
 
 3. Run the commands to install required packages and run flask app. 
    ```bash
