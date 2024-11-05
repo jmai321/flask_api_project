@@ -1,5 +1,8 @@
 # Flask RESTful API Project
 
+# Group Members: Jonathan Mai, Daniel Currey
+# Screenshot including all postman endpoints can be found in the repo: screenshot.png
+
 ## Features
 - **Error Handling**: Returns  error messages for various HTTP status codes.
 - **JWT Authentication**: Login endpoint provides JWT tokens for accessing protected routes.
