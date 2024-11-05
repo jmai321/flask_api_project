@@ -13,13 +13,18 @@
    ```bash
    git clone <repository_url>
    cd flask_api_project
-2. python3 -m venv venv
-source venv/bin/activate  # On macOS/Linux
-.\venv\Scripts\activate    # On Windows
+   ```
+2. Create Virtual Environment 
+ ```bash
+   python3 -m venv venv
+   source venv/bin/activate  # On macOS/Linux
+   .\venv\Scripts\activate    # On Windows
+ ```
 
-3. pip install -r requirements.txt
+3. Run the commands to install required packages and run flask app. 
+   ```bash
+   pip install -r requirements.txt
+   flask run
 
-4. flask run
-
-5. Test it using postman
+6. Test it using Postman
 
