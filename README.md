@@ -2,6 +2,7 @@
 
 - Group Members: Jonathan Mai, Daniel Currey
 - Screenshot including all postman endpoints can be found in the repo: screenshot.png
+- Video Demonstrating working of authentication and file handling endpoints: [Click on this link](https://youtu.be/rBsJuuiSg5k)
 
 ## Features
 - **Error Handling**: Returns  error messages for various HTTP status codes.
