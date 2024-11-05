@@ -11,7 +11,7 @@
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/jmai321/flask_api_project.git
    cd flask_api_project
    ```
 2. Create Virtual Environment 
